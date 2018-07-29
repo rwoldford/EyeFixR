@@ -1,0 +1,11 @@
+Package: EyeFixR
+Type: Package
+Title: Determinations fixation locations from eye-tracking data
+Version: 0.0.1
+Date: 2015-05-20
+Author: Amanda Murdoch
+Maintainer: Wayne Oldford <rwoldford@uwaterloo.ca>
+Description: Determinations fixation locations from eye-tracking data
+License: GPL 3.0
+Encoding: UTF-8
+LazyData: true
